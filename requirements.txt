@@ -1,0 +1,8 @@
+langchain_chroma
+langchain_community
+langchain_core
+langchain_huggingface
+pypdf
+fastembed
+docx2txt
+chromadb
